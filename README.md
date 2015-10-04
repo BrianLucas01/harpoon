@@ -1,8 +1,6 @@
 # HARPOON - WEB SHELL
-=====================
 
-***Harpoon é uma linha de comando remota, nela você pode escrever comandos no seu terminal e eles
-serão executados no servidor que o arquivo em PHP se encontra.***
+***Harpoon is a web backdoor , it you can type commands on your terminal and they will run on the server that the PHP file is located.***
 
 ####Installing:
 
